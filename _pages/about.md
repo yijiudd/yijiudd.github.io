@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "YI JIU"
+title: "Jiu Yi"
 author_profile: true
 redirect_from: 
   - /about/
