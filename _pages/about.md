@@ -19,6 +19,22 @@ Education
 ======
 * M.S. in Computer Science and Communication Engineering, Waseda University, 2023-2025
 * B.S. in Electronic Information Science and Technology, Beijing University of Posts and Telecommunications, 2017-2021
+  
+
+Projects
+======
+* Dataset preparation for coding language translation  
+  [Task](https://docs.google.com/document/d/1RTRcKpSzVY9B4y8mKpkjJsH3Ur1XVqm8WszgvUySGfU/edit?usp=sharing) · [Slides](https://docs.google.com/presentation/d/1AqICBL0gQ6faxcbFvo7Ov7FIKFdX9DV4qfYIqD8-5dQ/edit?usp=sharing) · [Dataset](https://huggingface.co/datasets/yijiu/py_to_js) · [Code](https://github.com/yijiudd/MultiPL-E/blob/main/dataset_builder/test.ipynb)
+  
+* LLM-based chatbot capable of handling Q&A related to items in an e-commerce company's inventory  
+  [Task](https://drive.google.com/file/d/1JBs4y32IH9NQ9RSSfbnIEUn-Ivo-C6FR/view?usp=sharing) · [Design](https://drive.google.com/file/d/1Sz4qQ_tITelHdAczCJA1qK7M0_rOXnZV/view?usp=sharing) · [Code](https://github.com/yijiudd/next_docker)
+
+* Generate novel Kanji by finetuning stable diffusion model with Lora  
+  [Slides](https://docs.google.com/presentation/d/1ocEEkodwYCZTSOXaGcum-aC5dwDtzPV8/edit?usp=sharing&ouid=102001816568009814926&rtpof=true&sd=true) · [Dataset](https://huggingface.co/datasets/yijiu/kanji) · [Experiment](https://huggingface.co/yijiu/kanji_df_1.5/tensorboard)
+
+* GastroHealth: AI-Driven System for Personalized Nutritional Guidance   
+  [Demo](https://drive.google.com/file/d/1otwrSVw5tBrN4NUWjanGvIS-o8UhWMmS/view?usp=sharing)
+
 
 Publications
 ======
